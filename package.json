@@ -4,7 +4,8 @@
   "description": "Curso de TypeScript parte do curso de JavaScript e TypeScript do basico ao avancado do Luiz Otavio Miranda - Udemy",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:silent": "jest --watchAll --silent --noStackTrace"
   },
   "keywords": [],
   "author": "",
